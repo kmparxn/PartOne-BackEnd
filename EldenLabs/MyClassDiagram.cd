@@ -1,4 +1,18 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-	<Font Name="Segoe UI" Size="9" />
+  <Class Name="EldenLabs.Models.Ruta">
+    <Position X="9.5" Y="2" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAIAAQAAAAAAAAABAAAAAAKAAAAAAAAAAEA=</HashCode>
+      <FileName>Models\Ruta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EldenLabs.Models.User">
+    <Position X="2.75" Y="1.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>IAACAAAAACAAAAAAEAAAAAAAAAAAAAACAQAAAAgBAAA=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
