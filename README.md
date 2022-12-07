@@ -8,6 +8,6 @@
 
 ![DiagramadDeClases](https://user-images.githubusercontent.com/42001590/206021010-a78873c6-e296-4d9e-9ddf-b4e19e890df0.png)
 
-#Demo
+# Demo
 
-![imagen](https://user-images.githubusercontent.com/42001590/206298191-6c6066c3-62b7-44be-a955-1a20236d46d3.png)
+![Captura de pantalla (871)](https://user-images.githubusercontent.com/42001590/206298664-7bc204c7-3d6c-41d6-a3e1-41554ae9ede9.png)
